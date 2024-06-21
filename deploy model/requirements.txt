@@ -1,0 +1,11 @@
+keras
+tensorflow
+numpy
+pandas
+matplotlib
+flask
+gensim
+huggingface-hub
+gunicorn
+fastapi
+uvicorn[standard]

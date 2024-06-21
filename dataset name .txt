@@ -1,0 +1,12 @@
+Dataset link
+
+https://www.kaggle.com/datasets/ahmedhaytham/chest-xray-images-pneumonia-with-new-class
+
+
+
+name of dataset 
+
+chest-xray-images-pneumonia-with-new-class 
+
+
+ 
